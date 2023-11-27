@@ -2,6 +2,7 @@
 
 The Daily Routine Monitor is a simple web application that helps you track your daily tasks and routines. It provides a user-friendly interface to manage and monitor your activities over the course of a month.
 
+website link <a href="https://daily-routine-monitor.web.app/">Link</a>
 ## Features
 
 - **Task Tracking:** Create tasks and monitor their completion status for each day.
