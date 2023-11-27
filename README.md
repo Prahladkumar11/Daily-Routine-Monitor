@@ -17,7 +17,7 @@ To use the Daily Routine Monitor, follow these steps:
 
    ```bash
    git clone https://github.com/your-username/daily-routine-monitor.git
-```
+
 2. Open `index.html` in your web browser.
 
 3. Start tracking your daily routine!.
