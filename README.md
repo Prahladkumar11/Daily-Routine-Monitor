@@ -38,3 +38,12 @@ To use the Daily Routine Monitor, follow these steps:
 ## Keyboard Shortcuts
 "/": Focus on the task input field
 
+## ScreenShot 
+
+<img width="943" alt="Screenshot 2023-11-27 114815" src="https://github.com/Prahladkumar11/Daily-Routine-Monitor/assets/96491878/f31e7af9-d73a-4554-8718-5ea455a89b09">
+
+
+https://github.com/Prahladkumar11/Daily-Routine-Monitor/assets/96491878/bd5f0bca-1b10-49e1-a69a-04a754d568e5
+
+
+
