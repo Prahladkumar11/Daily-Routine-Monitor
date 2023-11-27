@@ -17,24 +17,24 @@ To use the Daily Routine Monitor, follow these steps:
 
    ```bash
    git clone https://github.com/your-username/daily-routine-monitor.git
-``
+```
 2. Open `index.html` in your web browser.
 
 3. Start tracking your daily routine!.
 
-#Usage
-##Adding a Task
+# Usage
+## Adding a Task
 1 .Click on the "Add Task" button.
 2. Enter the task name in the input field.
 3. Press Enter or click the "Add" button.
 
-##Deleting a Task
+## Deleting a Task
 1. Click on the checkbox next to the task you want to delete.
 2. Click on the "Delete" button.
 
-##Updating Task Status
+## Updating Task Status
 1. Check or uncheck the checkbox for each day to update the task status.
    
-##Keyboard Shortcuts
+## Keyboard Shortcuts
 "/": Focus on the task input field
 
