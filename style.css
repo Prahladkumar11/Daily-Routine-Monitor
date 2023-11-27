@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital@1&display=swap');
+:root{
+    --main-color:#91cbea;
+}
+body{
+    /* background-color: #91eabd; */
+    font-family: 'Lora', serif;
+    font-size: 16px;
+    line-height: 1.6em;
+    margin: 0;
+    padding: 0;
+    border:.5rem solid #1e1b10;
+    
+
+}
+
+.index-banner {
+
+    text-align: center;
+    background-color: var(--main-color);
+    color: #1e1b10;
+    padding: 10px;
+    border-bottom: 8px solid #1e1b10;
+}
+
+#add{
+    text-align: center;
+    background-color: var(--main-color);
+    color: #1e1b10;
+    padding: 10px;
+    border-bottom: 8px solid #1e1b10;
+    backdrop-filter: blur(5px)
+
+}
+.task {
+    overflow-x: auto;
+    overflow-y: auto;
+    background-color:var(--main-color);
+    min-height: 60vh;
+    align-items: center;
+
+    
+}
+#tableContainer {
+    /* overflow-x: auto; */
+    overflow: auto;
+    max-width: 100%;
+    background-color:var(--main-color);
+    min-height: 70vh;
+
+    
+}
+#taskListBody tr td:first-child {
+    position: sticky;
+    left: 0;
+    background-color: rgb(209, 205, 205);
+    z-index: 1;
+    font-weight: 100;
+    
+  }
+  #taskColumn {
+    position: sticky;
+    left: 0;
+    background-color: rgb(209, 205, 205);
+    z-index: 2;
+  }
+
+#dateColumn {
+    position: sticky;
+    top: 0;
+    background-color: rgb(209, 205, 205);
+    z-index: 1;
+}
+
+.currentDate {
+    background-color: #fcf3e5; /* Cream color */
+}
+
+table {
+    padding: 10px;
+    border-collapse: collapse;
+    margin: 25px;
+    width: 100%;
+    
+
+}
+
+th, td {
+    border: 2px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #b79696;
+}
+
+input[type="checkbox"] {
+    margin-left: 5px;
+    scale: 1.5;
+}
+
